@@ -1,7 +1,11 @@
 
 Credit Card Fraud Detection Project Documentation
+
+## Problem Statement Overview
+For many banks, retaining their high-profitable customers is the number one business goal. Banking fraud, however, poses a significant threat to this goal for different banks. In terms of incurring substantial financial losses, losing trust and credibility, banking fraud is an issue concerning both banks and customers alike. In this capstone, your task is to predict fraudulent credit card transactions with the help of machine learning models. You will analyse customer-level data and handle class imbalances present in the data set, along with performing model selection and hyperparameter tuning.
+
 ## Project Overview
-The Credit Card Fraud Detection project aims to predict fraudulent credit card transactions using machine learning models. The dataset contains transactions made by European cardholders over two days in September 2013. The project addresses the challenge of highly imbalanced data, where fraudulent transactions are a small fraction of the total transactions.
+The Credit Card Fraud Detection project aims to predict fraudulent credit card transactions using machine learning models. The project addresses the challenge of highly imbalanced data, where fraudulent transactions are a small fraction of the total transactions.
 
 ## Project Structure
 ```
