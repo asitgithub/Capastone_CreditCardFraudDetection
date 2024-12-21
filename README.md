@@ -4,30 +4,6 @@ For many banks, retaining their high-profitable customers is the number one busi
 ## Project Overview
 The Credit Card Fraud Detection project aims to predict fraudulent credit card transactions using machine learning models. The data set is taken from the Kaggle website and has a total of 2,84,807 transactions; out of these, 492 are fraudulent. Since the data set is highly imbalanced, it needs to be handled before model building.The project addresses the challenge of highly imbalanced data, where fraudulent transactions are a small fraction of the total transactions.
 
-## Project Structure
-```
-.vs/
-    credit-card-fraud-detection/
-        copilot-chat/
-            9eea146b/
-                sessions/
-                    fd60dd2a-6118-46fa-9364-28ea19ab0415
-        CopilotIndices/
-            17.12.38.29086/
-                SemanticSymbols.db-shm
-                SemanticSymbols.db-wal
-        FileContentIndex/
-            7fe92940-dad2-4fdb-af9a-fbe2edcf6b72.vsidx
-        v17/
-            .wsuo
-            DocumentLayout.backup.json
-            DocumentLayout.json
-    slnx.sqlite
-    VSWorkspaceState.json
-credit_card_fraud_detection.ipynb
-README.md
-```
-
 ## Key Components
 1. **Notebook**: The main analysis and model-building are performed in the [`credit_card_fraud_detection.ipynb`](credit_card_fraud_detection.ipynb) notebook.
 2. **README.md**: Provides an overview of the project, including the problem statement, business problem overview, understanding and defining fraud, data dictionary, and project pipeline.
